@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="C:\Users\RAMANAND\Documents\workspace-spring-tool-suite-4-4.28.0.RELEASE\Hotelmanagementsystem"/>
+			<item value="C:\Users\RAMANAND\Documents\workspace-spring-tool-suite-4-4.28.0.RELEASE\StudentManagement"/>
+			<item value="C:\Users\RAMANAND\Downloads\StudentManagement\StudentManagement"/>
+			<item value="C:\Users\RAMANAND\Documents\workspace-spring-tool-suite-4-4.28.0.RELEASE\EmployeeManagement"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+</section>
